@@ -9,6 +9,7 @@ function Profile() {
             'background': 'white',
             'text-align': 'center',
             'border-radius': '5px',
+            'box-shadow': '5px 5px 8px #888888'
         }}>
             <img src="https://i.pinimg.com/originals/d5/ce/a2/d5cea2c3333f1069e79d1cf2a3aa8651.jpg" alt='cover' 
             style={{

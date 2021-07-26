@@ -77,7 +77,8 @@ function Members() {
             'text-align': 'left',
             'alignItems': 'left',
             'padding': '10px',
-            'margin': '20px auto'
+            'margin': '20px auto',
+            'box-shadow': '5px 5px 8px #888888'
         }}>
             <p style={{ 'font-size':'1.2rem'}}>Team Members</p>
             <ul
